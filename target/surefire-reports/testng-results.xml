@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13218" started-at="2019-07-23T09:08:02Z" finished-at="2019-07-23T09:08:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13218" started-at="2019-07-23T09:08:02Z" finished-at="2019-07-23T09:08:16Z">
+      <class name="com.geet.org.pune.MavenProject.OragnHrm">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.geet.org.pune.MavenProject.OragnHrm@6aaa5eb0]" name="beforeTest" is-config="true" duration-ms="10455" started-at="2019-07-23T14:38:02Z" finished-at="2019-07-23T14:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="loginmethod()[pri:0, instance:com.geet.org.pune.MavenProject.OragnHrm@6aaa5eb0]" name="loginmethod" duration-ms="2025" started-at="2019-07-23T14:38:13Z" finished-at="2019-07-23T14:38:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.geet.org.pune.MavenProject.OragnHrm@6aaa5eb0]" name="afterTest" is-config="true" duration-ms="723" started-at="2019-07-23T14:38:15Z" finished-at="2019-07-23T14:38:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.geet.org.pune.MavenProject.OragnHrm -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
